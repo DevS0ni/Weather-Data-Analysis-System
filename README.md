@@ -23,9 +23,9 @@ Offers insights into total precipitation and average precipitation across all mo
 Sorts and displays data by location name, emphasizing locations with the highest total precipitation first.
 Includes a summary of total precipitation and average precipitation for all locations.
 
-## Step-by-Step Guide for Visual Studio:
+# Step-by-Step Guide for Visual Studio:
 
-# Prerequisites:
+## Prerequisites:
 
 *Install Visual Studio:*
 Download and install Visual Studio.
@@ -46,7 +46,7 @@ Enter a project name, choose a location, and click "Create."
 Copy your C source code (weather.c) and header file (weather.h) into the project folder.
 In Visual Studio, right-click on the project in the Solution Explorer, choose "Add" > "Existing Item..." and select your C files.
 
-# Compile and Run the Application:
+## Compile and Run the Application:
 
 *Build the Project:*
 Click on "Build" > "Build Solution" to compile your C code.

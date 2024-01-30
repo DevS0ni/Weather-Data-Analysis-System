@@ -6,6 +6,7 @@ This command-line application reads data from an external file, processes it, an
 The application focuses on providing insights into precipitation amounts based on different criteria such as region, month, and location.
 
 *Key Features:*
+
 *TechStack*
 - C Programming Language
 
